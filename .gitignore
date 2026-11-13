@@ -1,1 +1,4 @@
 venv/
+Artifacts/
+Tools/
+.circuitpython-build-venv/
